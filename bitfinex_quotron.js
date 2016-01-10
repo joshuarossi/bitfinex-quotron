@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var blessed = require('blessed');
 var _ = require('lodash');
 var util = require('util');
